@@ -1,12 +1,5 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "headers": [],
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://keepblog.me/$1",
-      "permanent": true
-    }
-  ]
+  "headers": []
 }
